@@ -1,20 +1,11 @@
 {
   "version": "2.0.0",
   "notes": "测试一下",
-  "pub_date": "123",
+  "pub_date": "2025-01-13T02:32:29.797Z",
   "platforms": {
-    "linux-x86_64": {
-      "signature": "",
-      "url": "1"
-    },
-    "windows-x86_64": {
-      "signature": "",
-      "url": "2"
-    },
-    "darwin-x86_64": {
-      "signature": "",
-      "url": "3"
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaExBZHFwL2RiUWpTTlhoZjd1WW5vYUpFeVFlL0lkTG41ZVdyNmtjNG1FQ2JpbjBjcGVLQmZKWno3WFZYR2VEMEw3UUJyTzNzRkJnQ2tIS1YrMWl5RXV1VzZEdWNQaFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2OTE5NDkxCWZpbGU6RS1DYXJlLmFwcC50YXIuZ3oKSzFmOTF2cUtLZXNiVWNRK2FaWUJuME5KRjhLTkxUcjBzVEcwTGRJU0REcjF4WFdEazFSMkxKMUxiMUZsNnBLcUpyNWpNcmFoVEQydFhaOStwQmhOQUE9PQo=",
+      "url": "https://github.com/ESTUN-TEAM/check-update/releases/download/v2.0.0/E-Care_0.0.1_aarch64.dmg"
     }
   }
 }
-
